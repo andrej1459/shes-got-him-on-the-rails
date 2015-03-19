@@ -1,0 +1,23 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.home {
+	color: white;
+	width: 500px;
+	margin: auto;
+
+	ul {
+		list-style-type: none;
+		li {
+			margin: 20px 0;
+		}
+	}
+	a {
+		color: white;
+		text-decoration: none;
+		font-size: 1.5em;;
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}

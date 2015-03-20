@@ -18,5 +18,14 @@ html, body {
 	padding: 10px;
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     font-weight: 300;
-    background-color: #222;
+    background-color: #2C3E50;
+    color: #ECF0F1;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: #F1C40F;
+	text-decoration: none;
 }
